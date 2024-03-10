@@ -24,7 +24,7 @@ extern "C" void __stdcall NameSurname(char* p)
     char a[] = "Nevolin Gleb Olegovich";
     strcpy(p, a);
 }
-
+//comment for SECONDARY branch
 extern "C" int __stdcall GroupNumber()
 {
     int i = 591220;
