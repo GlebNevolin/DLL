@@ -18,7 +18,7 @@ BOOL APIENTRY DllMain( HMODULE hModule,
     }
     return TRUE;
 }
-
+//comment for MAIN branch
 extern "C" void __stdcall NameSurname(char* p)
 {
     char a[] = "Nevolin Gleb Olegovich";
